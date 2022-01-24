@@ -4,6 +4,8 @@
   ## Description
   The goal of this project was to take an existing e-commerce app and refactor it to use Redux.
 
+  
+
   ## Table of Contents
   - [Description](#)
   - [Screencapture](#screencapture)
