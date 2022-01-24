@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/redux-reuse-recycle', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/mernshopping', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
